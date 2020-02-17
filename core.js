@@ -1,6 +1,6 @@
 var ringer =
     {
-      countdown_to: "10/4/2019",
+      countdown_to: "31/12/2020",
       rings:
           {
             'дней':
